@@ -16,3 +16,6 @@ LICENSE
 Dockerfile
 docker-compose*.yml
 .dockerignore
+logs
+.claude
+.vscode
